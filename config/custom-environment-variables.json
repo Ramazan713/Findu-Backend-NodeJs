@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey":"findu_jwtPrivateKey",
+    "emailUser":"findu_emailUser",
+    "emailPassword":"findu_emailPassword"
+}
