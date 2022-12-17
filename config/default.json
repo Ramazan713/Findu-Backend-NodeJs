@@ -1,0 +1,13 @@
+{
+    "jwtPrivateKey":"xxx",
+    "bucketName":"uploads",
+    "dbUrl":"mongodb://localhost:27017/findu_db",
+    "tokenExpireSeconds":60,
+    "emailUser":"xxx",
+    "emailPassword":"xxx",
+    "emailHost":"smtp.office365.com",
+    "emailPort":587,
+    "isEmailVerificationEnabled":false,
+    "port":8080,
+    "baseUrl":"http://localhost:8080"
+}
